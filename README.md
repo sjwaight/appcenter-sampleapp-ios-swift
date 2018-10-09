@@ -6,6 +6,10 @@ This sample Swift app and its collection of tutorials is designed to help you qu
 ## This repository
 This sample Swift app has the App Center SDK already integrated - all you need to do is follow the tutorials at the bottom to learn how to use each service.
 
+## Simon's App Center Build Status
+
+[![Build status](https://build.appcenter.ms/v0.1/apps/5eb541d0-ffed-45e1-8177-d7e433bb9f92/branches/master/badge)](https://appcenter.ms)
+
 ## Build the sample app
 After forking the repository, you'll need to install CocoaPods to build the app.
   ```shell
